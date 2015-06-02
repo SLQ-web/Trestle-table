@@ -10,5 +10,5 @@ Unfortunately this means that each table needs to have a small chunk of accompan
 
 ##What does the Trestle Tables script do?
 
-The Trestle Tables script reads the THEAD content and then prints that in to a style tag in the HEAD of a HTML document.
+The Trestle Table script reads the THEAD content and then prints that in to a style tag in the HEAD of a HTML document.
 
