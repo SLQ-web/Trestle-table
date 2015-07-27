@@ -1,0 +1,5 @@
+body { font-family: sans-serif; }
+tr, th { padding: 10px }
+th { vertical-align: top; text-align: left; background: #EBE3FE; }
+tr { background: #F5FFD0; }
+tr td { padding: 10px; }

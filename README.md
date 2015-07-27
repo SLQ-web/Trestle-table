@@ -13,5 +13,5 @@ Unfortunately this means that each table needs to have a small chunk of accompan
 The Trestle Table script reads the THEAD content and then prints that in to a style tag in the HEAD of a HTML document.
 
 ##NOTE
-This particular iteration of the script is specifically customised for PL Connect website on Squiz Matrix.
+The 'trestle-table' stylesheet attached to the demo is not tied to a specific system or workflow. The styles will render automatically after script generates the class, inline styles and additional content for mobile view. The 'default' stylesheet applies some default styles to make the table look more handsome. It can be discarded or modified without affecting the core behaviour.
 
