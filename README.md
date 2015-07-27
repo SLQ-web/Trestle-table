@@ -12,3 +12,6 @@ Unfortunately this means that each table needs to have a small chunk of accompan
 
 The Trestle Table script reads the THEAD content and then prints that in to a style tag in the HEAD of a HTML document.
 
+##NOTE
+This particular iteration of the script is specifically customised for PL Connect website on Squiz Matrix.
+
